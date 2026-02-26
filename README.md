@@ -34,5 +34,7 @@ Sou o Daniel e gosto de fazer projetos avançados com uma boa longevidade, se qu
 ## Estatísticas
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DnDev77&theme=gotham&hide_border=true&border_radius=12.5&short_numbers=true&mode=weekly&hide_total_contributions=true" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=DnDev77&theme=gotham&border_radius=15&hide_border=true&locale=pt_BR&mode=weekly" />
+  </a>
 </p>
