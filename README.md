@@ -1,6 +1,6 @@
-# Daniel Angelo
+# 👩🏻‍💻 Daniel Angelo
 
-> FullStack Developer
+> FullStack | Developer
 
 Sou o Daniel e gosto de fazer projetos avançados com uma boa longevidade, se quiser saber mais sobre, visite meu [Portfólio](https://dnzxdev.vercel.app)!
 
